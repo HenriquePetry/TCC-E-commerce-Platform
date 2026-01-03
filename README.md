@@ -58,19 +58,6 @@ To run this project locally, you need to configure the environment variables.
 Below are sample values you can copy and paste directly if you're just testing:
 
 ```bash
-# MongoDB
-MONGODB_URI=mongodb+srv://admin:admin123@cluster0.mongodb.net/ecommerce?retryWrites=true&w=majority
 
-# Amazon S3
-AWS_ACCESS_KEY_ID=AKIAIOSAMPLEKEY
-AWS_SECRET_ACCESS_KEY=abc123sampleSECRETKEY
-AWS_REGION=us-east-1
-AWS_BUCKET_NAME=henrique-ecommerce-bucket
-
-# Stripe (optional)
-STRIPE_SECRET_KEY=sk_test_51NpSampleStripeKey
-STRIPE_WEBHOOK_SECRET=whsec_samplewebhooksecret
-
-```
 
 Built with 💻, ☕ and a lot of ❤️ by Henrique, as part of my final college project.
